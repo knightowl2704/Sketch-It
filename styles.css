@@ -1,0 +1,50 @@
+
+  body {
+    background-color: #204e72 !important;
+    text-align: center;
+  }
+
+  h1 {
+    color: #ffffff;
+    align-items: center;
+    font-weight: bolder;
+  }
+  p {
+    color: #ffffff;
+    font-size: xx-large;
+  }
+
+  .predList{
+      color: white;
+      width: 350px;
+      height: 600px;
+      margin-left: 2%;
+      text-align: justify;
+      position: absolute;
+      bottom: 0px;
+      
+  }
+  
+
+.canvasele{
+    padding: 0;
+    margin: auto;
+    /* display: block; */
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border:  #124260 solid 5px;
+    border-radius: 8px;
+    
+}
+img {
+    height: 180px;
+
+}
+.predspara{
+    font-size: x-large;
+}
